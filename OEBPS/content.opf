@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Menu Santi</dc:title>
+    <dc:language>it</dc:language>
+    <dc:creator id="cre">Antonio Ubilluz Aguilar</dc:creator>
+    <meta refines="#cre" property="role" scheme="marc:relators">aut</meta>
+    <dc:format>EPUB</dc:format>
+    <dc:description>Menù del ristorante-pizzeria &quot;Antica Pizzeria Santi&quot; di Rivolta d'Adda</dc:description>
+    <meta property="dcterms:modified">2024-09-09T14:28:39Z</meta>
+    <dc:identifier id="BookId">urn:uuid:e41cd520-e092-47f7-8141-5ae415e4d7e5</dc:identifier>
+    <meta name="Sigil version" content="2.3.0"/>
+    <meta name="cover" content="Logo.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="sgc-nav.css" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="Roboto-Regular.ttf" href="Fonts/Roboto-Regular.ttf" media-type="font/ttf"/>
+    <item id="style.css" href="Styles/style.css" media-type="text/css"/>
+    <item id="Margherita.xhtml" href="Text/Margherita.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Pugliese.xhtml" href="Text/Pugliese.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Wurstel.xhtml" href="Text/Wurstel.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Logo.jpg" href="Images/Logo.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="Napoli.xhtml" href="Text/Napoli.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prosciutto.xhtml" href="Text/Prosciutto.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Funghi.xhtml" href="Text/Funghi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Diavola.xhtml" href="Text/Diavola.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Gustosa.xhtml" href="Text/Gustosa.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Romana.xhtml" href="Text/Romana.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Tonno.xhtml" href="Text/Tonno.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CapreseConBufala.xhtml" href="Text/CapreseConBufala.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CrudoDiParmaEBurrata.xhtml" href="Text/CrudoDiParmaEBurrata.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ProsciuttoEMelone.xhtml" href="Text/ProsciuttoEMelone.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Pizze.jpg" href="Images/Pizze.jpg" media-type="image/jpeg"/>
+    <item id="Cucina.jpg" href="Images/Cucina.jpg" media-type="image/jpeg"/>
+    <item id="Bevande.jpg" href="Images/Bevande.jpg" media-type="image/jpeg"/>
+    <item id="Acqua.xhtml" href="Text/Acqua.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Bibita.xhtml" href="Text/Bibita.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Moretti.xhtml" href="Text/Moretti.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9bf46b14-d8fd-48d6-91d6-29afbd51394a" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="Section0001.xhtml" href="Text/Bevande.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3c57064e-ce0f-4540-b176-2dc34d44be71" href="Text/Cucina.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4f0bc08b-3111-4ea1-9d47-8674d849a50d" href="Text/Pizze.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Bevanda_Acqua.jpg" href="Images/Bevanda_Acqua.jpg" media-type="image/jpeg"/>
+    <item id="Bevanda_Bibita.jpg" href="Images/Bevanda_Bibita.jpg" media-type="image/jpeg"/>
+    <item id="Bevanda_Moretti.jpg" href="Images/Bevanda_Moretti.jpg" media-type="image/jpeg"/>
+    <item id="Piatto_Caprese.jpg" href="Images/Piatto_Caprese.jpg" media-type="image/jpeg"/>
+    <item id="Piatto_CrudoBurrata.jpg" href="Images/Piatto_CrudoBurrata.jpg" media-type="image/jpeg"/>
+    <item id="Piatto_CrudoMelone.jpg" href="Images/Piatto_CrudoMelone.jpg" media-type="image/jpeg"/>
+    <item id="Pizza_Diavola.jpg" href="Images/Pizza_Diavola.jpg" media-type="image/jpeg"/>
+    <item id="Pizza_Funghi.jpg" href="Images/Pizza_Funghi.jpg" media-type="image/jpeg"/>
+    <item id="Pizza_Gustosa.jpg" href="Images/Pizza_Gustosa.jpg" media-type="image/jpeg"/>
+    <item id="Pizza_Margherita.jpg" href="Images/Pizza_Margherita.jpg" media-type="image/jpeg"/>
+    <item id="Pizza_Napoli.jpg" href="Images/Pizza_Napoli.jpg" media-type="image/jpeg"/>
+    <item id="Pizza_Prosciutto.jpg" href="Images/Pizza_Prosciutto.jpg" media-type="image/jpeg"/>
+    <item id="Pizza_Pugliese.jpg" href="Images/Pizza_Pugliese.jpg" media-type="image/jpeg"/>
+    <item id="Pizza_Romana.jpg" href="Images/Pizza_Romana.jpg" media-type="image/jpeg"/>
+    <item id="Pizza_Tonno.jpg" href="Images/Pizza_Tonno.jpg" media-type="image/jpeg"/>
+    <item id="Pizza_Wurstel.jpg" href="Images/Pizza_Wurstel.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine>
+    <itemref idref="x9bf46b14-d8fd-48d6-91d6-29afbd51394a"/>
+    <itemref idref="nav.xhtml"/>
+    <itemref idref="x4f0bc08b-3111-4ea1-9d47-8674d849a50d"/>
+    <itemref idref="Margherita.xhtml"/>
+    <itemref idref="Pugliese.xhtml"/>
+    <itemref idref="Wurstel.xhtml"/>
+    <itemref idref="Napoli.xhtml"/>
+    <itemref idref="Prosciutto.xhtml"/>
+    <itemref idref="Funghi.xhtml"/>
+    <itemref idref="Diavola.xhtml"/>
+    <itemref idref="Gustosa.xhtml"/>
+    <itemref idref="Romana.xhtml"/>
+    <itemref idref="Tonno.xhtml"/>
+    <itemref idref="x3c57064e-ce0f-4540-b176-2dc34d44be71"/>
+    <itemref idref="CapreseConBufala.xhtml"/>
+    <itemref idref="CrudoDiParmaEBurrata.xhtml"/>
+    <itemref idref="ProsciuttoEMelone.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Acqua.xhtml"/>
+    <itemref idref="Bibita.xhtml"/>
+    <itemref idref="Moretti.xhtml"/>
+  </spine>
+</package>
